@@ -35,7 +35,7 @@
     "docco": "0.6.x",
     "eslint": "0.6.x",
     "phantomjs": "1.9.7-1",
-    "uglify-js": "2.4.x"
+    "uglify-js": "3.10.x"
   },
   "files": [
     "underscore.js",

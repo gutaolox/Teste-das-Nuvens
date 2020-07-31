@@ -1,5 +1,4 @@
 # Teste das Nuvens
- Teste aplicado durente entrevista 
 
 # Comandos de inicialização
  npm install
